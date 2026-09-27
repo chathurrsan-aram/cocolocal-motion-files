@@ -1,6 +1,6 @@
 # Coco Local motion files
 
-Final MP4 exports of the Coco Local brand motion kit: 288 files, about 1.1 GB. They're full original quality, with nothing re-compressed.
+Final MP4 exports of the Coco Local brand motion kit: 323 files, about 1.5 GB (288 in batch 1, 35 in batch 2). They're full original quality, with nothing re-compressed.
 
 `05 — Brand Motion Kit/` mirrors the Google Drive folder of the same name
 (https://drive.google.com/drive/folders/1m8yIoYK-5VUiEc3kP0F9TvTMKdwcWHND). Every file sits in the subfolder it belongs in on Drive.
@@ -13,11 +13,14 @@ Final MP4 exports of the Coco Local brand motion kit: 288 files, about 1.1 GB. T
 | 04 — Follow Us | Cursor clicks Follow on Instagram and Facebook, starting from cocolocal.co.uk/follow |
 | 05 — Weekly Offers | Drinks offers reel: intro, 4 offers, outro (18+ line included) |
 | 06 — Coco Wheel | Spin-the-wheel: Win, Lose, How to enter |
+| 07 — Offers Part 2 (September) | *Batch 2.* The Part 2 reel (43 s) and 8 single-offer shorts in 9:16, with silent copies. `Earlier versions/` holds the v1 cut, the v2 simple test and the prototypes |
+| 05 — Weekly Offers/New soundtrack (groove) | *Batch 2.* The drinks reel with its new soundtrack |
+| 05 — Weekly Offers/Earlier drafts | *Batch 2.* Drinks reel drafts 1 and 2 (4:5) |
 
 - **Themes:** navy is in the top folder; `Light/` and `Indigo/` hold the other colourways (for 01–03 the theme is in the file name).
 - **Sizes:** 1080x1920 (Reels/Stories), 1080x1350 (feed 4:5), 1080x1080 (square).
 - **Silent copies:** every video has a `-silent` copy with the audio track removed. The picture is the same, so you can add Instagram music.
 
-**To put these into Drive:** follow [CHATGPT-PROMPT.md](CHATGPT-PROMPT.md). Paste it into ChatGPT with it connected to your computer, or follow the steps yourself.
+**To put these into Drive:** batch 1 uses [CHATGPT-PROMPT.md](CHATGPT-PROMPT.md), and batch 2 uses [CHATGPT-PROMPT-2-offers-revision.md](CHATGPT-PROMPT-2-offers-revision.md). Paste it into ChatGPT with it connected to your computer, or follow the steps yourself.
 
-`SHA256SUMS.txt` has a checksum for every file.
+`SHA256SUMS.txt` (batch 1) and `SHA256SUMS-batch2.txt` (batch 2) have a checksum for every file.
