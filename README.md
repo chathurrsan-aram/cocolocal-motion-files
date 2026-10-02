@@ -1,6 +1,6 @@
 # Coco Local motion files
 
-Final MP4 exports of the Coco Local brand motion kit: 341 files, about 1.7 GB (288 in batch 1, 35 in batch 2, 18 in batch 3). They're full original quality, with nothing re-compressed.
+Final MP4 exports of the Coco Local brand motion kit: 345 files, about 1.9 GB (288 in batch 1, 35 in batch 2, 18 in batch 3, 4 in batch 4). They're full original quality, with nothing re-compressed.
 
 `05 — Brand Motion Kit/` mirrors the Google Drive folder of the same name
 (https://drive.google.com/drive/folders/1m8yIoYK-5VUiEc3kP0F9TvTMKdwcWHND). Every file sits in the subfolder it belongs in on Drive.
@@ -15,6 +15,7 @@ Final MP4 exports of the Coco Local brand motion kit: 341 files, about 1.7 GB (2
 | 06 — Coco Wheel | Spin-the-wheel: Win, Lose, How to enter |
 | 07 — Offers Part 2 (September) | *Batch 2.* The Part 2 reel (43 s) and 8 single-offer shorts in 9:16, with silent copies. `Earlier versions/` holds the v1 cut, the v2 simple test and the prototypes |
 | 07 — Offers Part 2 (September)/v6 — price first (latest) | *Batch 3.* **Latest.** The reel and 8 shorts with the price as the main thing, plus silent copies |
+| 05 — Product Range Reels/05 — Full Range Motion (coded) | *Batch 4.* **Latest.** The Full Range video (52 s) with 13 collections and the shopfront opener, a silent copy, and the earlier 12-collection version |
 | 05 — Weekly Offers/New soundtrack (groove) | *Batch 2.* The drinks reel with its new soundtrack |
 | 05 — Weekly Offers/Earlier drafts | *Batch 2.* Drinks reel drafts 1 and 2 (4:5) |
 
@@ -22,6 +23,6 @@ Final MP4 exports of the Coco Local brand motion kit: 341 files, about 1.7 GB (2
 - **Sizes:** 1080x1920 (Reels/Stories), 1080x1350 (feed 4:5), 1080x1080 (square).
 - **Silent copies:** every video has a `-silent` copy with the audio track removed. The picture is the same, so you can add Instagram music.
 
-**To put these into Drive:** batch 1 uses [CHATGPT-PROMPT.md](CHATGPT-PROMPT.md), batch 2 uses [CHATGPT-PROMPT-2-offers-revision.md](CHATGPT-PROMPT-2-offers-revision.md), and batch 3 uses [CHATGPT-PROMPT-3-v6.md](CHATGPT-PROMPT-3-v6.md). Paste it into ChatGPT with it connected to your computer, or follow the steps yourself.
+**To put these into Drive:** batch 1 uses [CHATGPT-PROMPT.md](CHATGPT-PROMPT.md), batch 2 uses [CHATGPT-PROMPT-2-offers-revision.md](CHATGPT-PROMPT-2-offers-revision.md), batch 3 uses [CHATGPT-PROMPT-3-v6.md](CHATGPT-PROMPT-3-v6.md), and batch 4 uses [CHATGPT-PROMPT-4-full-range.md](CHATGPT-PROMPT-4-full-range.md). Paste it into ChatGPT with it connected to your computer, or follow the steps yourself.
 
-`SHA256SUMS.txt` (batch 1) `SHA256SUMS-batch2.txt` (batch 2) and `SHA256SUMS-batch3.txt` (batch 3) have a checksum for every file.
+`SHA256SUMS.txt` (batch 1) `SHA256SUMS-batch2.txt` (batch 2) `SHA256SUMS-batch3.txt` (batch 3) and `SHA256SUMS-batch4.txt` (batch 4) have a checksum for every file.
