@@ -1,0 +1,114 @@
+0fd877259747ca6fff42c48016b172eb2d509d38ad0d6201cb446d4e55393ed5  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Alternative — typography only/coco-hot-food-intro-typography-only-COMING-SOON-1080x1920-silent.mp4
+5fc37efe9c7a1a679a7b91bf41248a7d4716e3662f064ad12dd5d5f5dba27563  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Alternative — typography only/coco-hot-food-intro-typography-only-COMING-SOON-1080x1920.mp4
+3fb697eb9b3d1d57a42144d8666eb8e5dbcc3d638d4ca1078363ad5cbefdf709  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/01-intro/build.py
+97ce97716d6e67ed7a7848fcb3605f6836c49e4a83146802448d0a3dd4efc0a6  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/01-intro/config.json
+41b4589c0a8efd393518d8d47813ffd0648ee144a3a7b3a83c21f8a89b1ccec1  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/01-intro/music.py
+415026e4e3f1465b54115ed652248ce0cd15288c8ecd8993af2ee5f3bb4adb78  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/01-intro/template.html
+98e19bcd2637bd6128a5779e318590fa44e3c7e2ed0e897093a86a69d58f2335  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/assets/hero-kitchen-glow.jpg
+0cc7fd2a4fd4f829cc9f0822e6acd3db63fc1dad8147b372d735d4ee64772046  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/assets/hero-paper-bag.jpg
+292dcb9ff662d27e1d8bbef6fe22c9ba95a7026dd72730101cf6e32c1fe742d2  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/assets/logo-navy.png
+612e55d438284205d5b0a56ccf8cd15193db49cdd2cc1a2798bd578e06e3f8e3  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/assets/steam.png
+91f8b306918a2e195802fadbc4d94c4e251f0ca7df19f27b42aadd838c53fe92  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/build_html.py
+cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/fonts/poppins-latin-500-normal.woff2
+f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/fonts/poppins-latin-600-normal.woff2
+9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/fonts/poppins-latin-700-normal.woff2
+e1944e7df309ab3f5601121a953db2ac4ff90adf675c5cce5b78261ba6472e46  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/lib.js
+a28b8a12030fbb61bd7392a4ebd75efd0832b7c02193f80eefeb3fe0aff69663  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/music/groove.py
+775b73c8f0f518ee846fb1c53ff44d13f8aa02194e9047726f021f5fe2bfc788  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/music/master.sh
+64182275b178037c444bff41df772168d58cbb30ba35d28cac2cfac56624b1ed  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/music/p2_music.py
+e201719b9a34f3d37bb1e531aa1589cb49ee2fb66633095cacde79a48da5ce36  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/render.py
+8d2c0cb6a586874977ce88ca3164babaf34c222251d37db90a3240f0970b121e  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/render.sh
+d40fbc26f5616de4e3482d616263bb076cc7ed275850ad29a7c48a6bff082a6b  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/common/sheet.py
+595218b64a6eb0b5dad31df2987dc6aef0ee18abd76327eaeee40d9eb90e3ebd  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Editable source/qa.py
+4a89a6947438426a779aeff308f408e98e18271b1f8078661452a7ec35855c79  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Silent copies/coco-hot-food-intro-a-paper-bag-COMING-SOON-1080x1920-silent.mp4
+59310b3717cfc56e3dd6f092b744fd190474784e4744845feaed114322ad4581  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/Silent copies/coco-hot-food-intro-b-kitchen-glow-COMING-SOON-1080x1920-silent.mp4
+2477055c52496b3e79022113382c14bdd493a65994c9dce99f5ffab948a08c3f  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/caption.txt
+ff587eadc01b2bcffd935b04820cf8524f909c73fea4ceebeb25ad949fbc08ce  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/coco-hot-food-intro-a-paper-bag-COMING-SOON-1080x1920.mp4
+e08b977bb77220267002e8872f21f61b279463807008ccaf1af5e3573ef4ae40  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/coco-hot-food-intro-b-kitchen-glow-COMING-SOON-1080x1920.mp4
+6127e6a77ca9e9ea2d251a15e319301d804c60cf5b0897c8517daa0ac3fb535d  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/storyboard-intro-a-paper-bag.jpg
+4afb2a856cf4f83dd6b9ee1c3ba0187a419a054fba26fcc75252dd9c596fedff  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/01 — Hot food intro/storyboard-intro-b-kitchen-glow.jpg
+565ee96ad835928056eca7aecb45375beb2fe1e7b359a40aa3d95006ad1fe22d  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/build.py
+9f3f968fc731e266ff6748dcfb11fcd62c3ffaa2eecb9736f6caa1998bff53da  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/alcohol.jpg
+117b14bd3894521f6abea0d7dc3afe34a1f9edcb7caea325e873502c6bae52f9  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/care.jpg
+98e8be2baecc15784f3f18563a6939ec7871eb9ac526fd0b62cd02af0babdebf  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/coffee.jpg
+5ef9e61d27d79456b9d0bd5baec2dc20ad624662cab19ad12800ea4d6dcf050a  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/diy.jpg
+ae541b1b7d840e3374e625e11fafe8cd567a843ea8f6b9265df847eb8823e395  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/drinks.jpg
+4cca9556f129d393a486b06e3a6465e89044d51aa2ad916338ebbf87f0c6066d  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/groceries.jpg
+664beb5b8c78754aa52f3bd39c7743cbeefb23b9db70d784bd0c3581cecf0060  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/hotcoffee.jpg
+aac56229b0585b9b22665834e931c9450490b00b63a79d25c5cfff9b997edbb7  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/hotfood.png
+05a8c493ca15d50ceb2e2407827daaa7b22d4e068f2c3dc1fa95edf309dd2370  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/household.jpg
+6e0abfa8bca223612f4c9f09af356744a0e3aec26e77b8bb9cc303f04864597a  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/logo.png
+9563787a06a6f96f23bbb52b6fbca73dbccc28a947ab707bc94d553a89800274  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/pets.jpg
+7e1c417c40c10b32144d1d848d6a7a34d3ae3a17e03d7e26fdff9a0acaf0faed  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-alcohol.jpg
+7c1bb4a41689ff09b9de98df5abb1100b34058e6d29329cff5e4fb44b3c6fba5  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-care.jpg
+41acada562e488d4b63bda58f75bd24a49a0795df90736a17e7d650615adf238  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-coffee.jpg
+b76032ba58b9ae9e08929941e1ec2ab9558392e255e4b1727bdff90feffe54f6  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-diy.jpg
+41acada562e488d4b63bda58f75bd24a49a0795df90736a17e7d650615adf238  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-drinks.jpg
+37aca6575bac90b75b90e3358dc63701c42071758041df518143256eebfa1dae  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-groceries.jpg
+ad2b0610f86fdeb9f090f6fb18f4abdf4f87873fd7dd81db1fc849c811195cd7  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-hotcoffee.jpg
+ca73e731055895ab19d3cf7a9990e7920b07c75f6f6886d42e3585ddb1468078  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-household.jpg
+89bdb6269aae1c8a7428c99ab7cb590eccc07b92ee97beb90968a4d2ed9e7b1e  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-pets.jpg
+78c1e2907d42f6ae51c4b655d5bc53e7e1a74dad6a1d2f6f1df00662fd4b530b  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-slushies.jpg
+ba94105c01d51a339f6f62ffff7b82e9674768754acf36679d40d6e31fd39a0f  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-snacks.jpg
+619b151290b71d3d5df3b144321f926d15157cb1fc018a0b2584e7b162fedc5b  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-stationery.jpg
+c17009225a3820bc3af2cd276507fa6de483ecd044eb24b19457605280677f94  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shelf-sweets.jpg
+118e124f208519e63955ba267a567e847e215c66381276c436c6a27258413fe6  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/shop.jpg
+b50e19937253e52bb64417ad02989251d6f81eae0bd6c4a47834f2cb7d280e8a  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/slushies.jpg
+2cb3c4ccd2c25b929900a76fd8684c7af250d0e3d539410f52ab7995ca174b5b  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/snacks.jpg
+7b400491203d1a4c775c318c5dbe996d16a9c7e717ff427f68996d0046dbe163  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/stationery.jpg
+5ae5f1d9e72a6280d6503c620f1db473963e7e60060a6c95226ff3e500217720  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/img/sweets.jpg
+6f9e6182ac1d17c1c1824e75485ccafd68704f2fe5ce87f91d0c2bf8a745afa1  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/music.py
+36d34fb6df15e9d30899bec54dec467d1b64f171d832712d7c57e2c4ca44057c  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/02-full-range/template.html
+91f8b306918a2e195802fadbc4d94c4e251f0ca7df19f27b42aadd838c53fe92  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/build_html.py
+cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/fonts/poppins-latin-500-normal.woff2
+f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/fonts/poppins-latin-600-normal.woff2
+9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/fonts/poppins-latin-700-normal.woff2
+e1944e7df309ab3f5601121a953db2ac4ff90adf675c5cce5b78261ba6472e46  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/lib.js
+a28b8a12030fbb61bd7392a4ebd75efd0832b7c02193f80eefeb3fe0aff69663  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/music/groove.py
+775b73c8f0f518ee846fb1c53ff44d13f8aa02194e9047726f021f5fe2bfc788  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/music/master.sh
+64182275b178037c444bff41df772168d58cbb30ba35d28cac2cfac56624b1ed  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/music/p2_music.py
+e201719b9a34f3d37bb1e531aa1589cb49ee2fb66633095cacde79a48da5ce36  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/render.py
+8d2c0cb6a586874977ce88ca3164babaf34c222251d37db90a3240f0970b121e  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/render.sh
+d40fbc26f5616de4e3482d616263bb076cc7ed275850ad29a7c48a6bff082a6b  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/common/sheet.py
+595218b64a6eb0b5dad31df2987dc6aef0ee18abd76327eaeee40d9eb90e3ebd  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Editable source/qa.py
+6cb4edfcf7385718da7f67811734596bbdb5a37ec9782534c52fc1617ab3baeb  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/Silent copies/coco-full-range-14-collections-hot-food-COMING-SOON-1080x1920-silent.mp4
+eb843d62f5e22f3852e4d19d0e88b1b482bf94c26111c37e51fa97011a05257d  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/caption.txt
+d039d7e345cbb06156107b3fabf08397474f021120d32fa9fc8b604084a392e6  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/coco-full-range-14-collections-hot-food-COMING-SOON-1080x1920.mp4
+de21a7a19a89ef281fab8c3f58477a7b8086e563d8305b9c19a4ee57632fa391  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/02 — Full range with hot food (14 collections)/storyboard-full-range-14-collections.jpg
+8f656ade6608c714ec276c129749fc76023b46c4e29aa44d22be23fcdfefcabb  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/04-carousel/build.py
+d6043a8addf028a615158aeb79a7c2e796b17b11ef10fdeb670b819a920f55a9  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/04-carousel/hot-food-carousel.config.json
+466daecd1644f7ab7bb503d5bea5ea8eafa9dc29a08d5e1f1f95eaa90f6bb1b5  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/04-carousel/music.py
+c3a0b6ed3e42ba8671172e64c483cac869f11f14abc6a59804005794efe35a55  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/04-carousel/template.html
+292dcb9ff662d27e1d8bbef6fe22c9ba95a7026dd72730101cf6e32c1fe742d2  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/assets/logo-navy.png
+aac56229b0585b9b22665834e931c9450490b00b63a79d25c5cfff9b997edbb7  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/assets/photo-p1.png
+49467664b04267abe7e2ce6da5ea4a3f2f4e390bc7d8f7b9fe3f3f3af3eeb361  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/assets/photo-p2.png
+d4163f86697aa37ad42e5e77ab239f5c2d513b801d5df94b722ca5347672ee41  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/assets/photo-p3.png
+91257bf96dfe8a6637420071fc0f17ac04a33ccaedda152b5faa1767c7e4d1ff  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/assets/photo-p4.png
+612e55d438284205d5b0a56ccf8cd15193db49cdd2cc1a2798bd578e06e3f8e3  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/assets/steam.png
+91f8b306918a2e195802fadbc4d94c4e251f0ca7df19f27b42aadd838c53fe92  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/build_html.py
+cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/fonts/poppins-latin-500-normal.woff2
+f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/fonts/poppins-latin-600-normal.woff2
+9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/fonts/poppins-latin-700-normal.woff2
+e1944e7df309ab3f5601121a953db2ac4ff90adf675c5cce5b78261ba6472e46  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/lib.js
+a28b8a12030fbb61bd7392a4ebd75efd0832b7c02193f80eefeb3fe0aff69663  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/music/groove.py
+775b73c8f0f518ee846fb1c53ff44d13f8aa02194e9047726f021f5fe2bfc788  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/music/master.sh
+64182275b178037c444bff41df772168d58cbb30ba35d28cac2cfac56624b1ed  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/music/p2_music.py
+e201719b9a34f3d37bb1e531aa1589cb49ee2fb66633095cacde79a48da5ce36  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/render.py
+8d2c0cb6a586874977ce88ca3164babaf34c222251d37db90a3240f0970b121e  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/render.sh
+d40fbc26f5616de4e3482d616263bb076cc7ed275850ad29a7c48a6bff082a6b  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/common/sheet.py
+595218b64a6eb0b5dad31df2987dc6aef0ee18abd76327eaeee40d9eb90e3ebd  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Editable source/qa.py
+ae347c87d7a71a03c9411cf0e44336e46dd4b70be9409a8d17cb14a749869d65  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Silent copies/coco-hot-food-carousel-6-pages-DRAFT-TEMPLATE-1080x1350-silent.mp4
+bf0330da8e901ecfe8c2cdb4356fd5f2b9440e48987792382de899f6bcbb08a0  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Silent copies/coco-hot-food-carousel-6-pages-DRAFT-TEMPLATE-1080x1920-silent.mp4
+22ad4feece092da46435758b57c7ce944f49aa740a9c80bf46aafd967bfc0513  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Silent copies/coco-hot-food-carousel-COMING-SOON-1080x1350-silent.mp4
+b66f80172545a964986dfa9fb2234c66b517399a8eb8db8c1b95b9b528e7bee2  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/Silent copies/coco-hot-food-carousel-COMING-SOON-1080x1920-silent.mp4
+8497b2c41ea9bdec16da4ad96500f08f7fa5d7e5473970d82a420d7f80961dde  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/caption.txt
+616accba997b3295775a5f9a838091eb196c70d6be40c36f820d5d8d2b2f308e  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/coco-hot-food-carousel-6-pages-DRAFT-TEMPLATE-1080x1350.mp4
+80acdb0cf15da83b1d7a6fea7f8025e08f751c8109afe88f70f16115c269a3e4  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/coco-hot-food-carousel-6-pages-DRAFT-TEMPLATE-1080x1920.mp4
+076eedcf815f3a95d7828dc08aa4f8361ebbc63eb65e64973445f74096a59cf5  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/coco-hot-food-carousel-COMING-SOON-1080x1350.mp4
+60b5374246e5a45bce3b2d7d45daf28ffabeb83f927332291175441c68f6976e  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/coco-hot-food-carousel-COMING-SOON-1080x1920.mp4
+91071f3260c1a2f670a6322db51b0679c0689d736d654d633687b5aa1cfc3079  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/storyboard-carousel-6-pages-feed-DRAFT-TEMPLATE.jpg
+dd810e125e57c54df47685cfb4283525a228b4061cdd141e405b8ba7ccb1bd68  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/storyboard-carousel-6-pages-reel-DRAFT-TEMPLATE.jpg
+0909cd291fbdeba89499730bcee266500aa11e830e48c459cd949c4daeff401c  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/storyboard-carousel-COMING-SOON-feed.jpg
+7a83e25cbceec5860962299928ca72f21b0235a2df9276de54337876c514dd48  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/04 — Hot food carousel motion/storyboard-carousel-COMING-SOON-reel.jpg
+08117f4d0cef777f36babb528b0ba307d11c0767cb797c2b83d3ba08de6fd533  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/README — outstanding inputs.md
+592668830a55755238c867816f59f58364803553c7c9d9f1bfb53cd52819aeda  05 — Brand Motion Kit/08 — Hot Food (Coming soon)/captions.md
